@@ -1,4 +1,7 @@
+# STMCubeIDE profile settings
 .metadata
+
+# STMCubeIDE per project settings
 */.settings
 */Debug
 */Startup
