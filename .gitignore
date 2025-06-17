@@ -1,0 +1,8 @@
+.metadata
+*/.settings
+*/Debug
+*/Startup
+*/.cproject
+*/.project
+*/*.launch
+*/*.ld
