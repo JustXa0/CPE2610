@@ -2,6 +2,7 @@
 
 This repository contains each of my implementations for assigned labs in MSOE's CPE2610, Embedded Systems.
 Each lab was built using the STMCubeIDE found [at this link](https://www.st.com/en/development-tools/stm32cubeide.html), with the STM32F411 board selected per project.
+Provided in each lab folder is the header and source files as well as the respective lab handout.
 
 ## Intentions & Cheating
 
